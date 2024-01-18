@@ -1,0 +1,6 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: Acme Corporation Inc.
+theme: Eclectic
+enableGitInfo: true
+enableEmoji: true
